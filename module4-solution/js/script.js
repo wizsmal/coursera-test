@@ -69,3 +69,4 @@ var firstLetter =names[i].CharAt(0).toLowerCase();
   }
 }
 })();
+console.log("Hello");
