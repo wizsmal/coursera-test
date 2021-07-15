@@ -69,4 +69,4 @@ var firstLetter =names[i].charAt(0).toLowerCase();
   }
 }
 })();
-console.log("Hello");
+
