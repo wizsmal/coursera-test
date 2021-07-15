@@ -44,7 +44,7 @@ WARNING!!! WARNING!!!
 // Loop over the names array and say either 'Hello' or "Good Bye"
 // using either the helloSpeaker's or byeSpeaker's 'speak' method.
 // See Lecture 50, part 1
-for (var i;i<names.length;i++) {
+for (var i=0;i<names.length;i++) {
 
 
 
